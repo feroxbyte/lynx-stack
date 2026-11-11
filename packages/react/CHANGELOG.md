@@ -1,5 +1,11 @@
 # @lynx-js/react
 
+## 0.129.3
+
+### Patch Changes
+
+- Export `useDeferredValue` from `@lynx-js/react/compat`. It is Preact's implementation, so it has no concurrent rendering. ([#4327](https://github.com/lynx-family/lynx-stack/pull/4327))
+
 ## 0.129.2
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # @lynx-js/genui
 
+## 0.7.4
+
+### Patch Changes
+
+- Updated dependencies [[`3ff5a02`](https://github.com/lynx-family/lynx-stack/commit/3ff5a0282f904f44fb1425e051a1251feeb87255)]:
+  - @lynx-js/rsbuild-plugin@0.1.9
+  - @lynx-js/react-rsbuild-plugin@0.22.3
+  - @lynx-js/react-signals@0.0.7
+  - @lynx-js/config-rsbuild-plugin@0.2.5
+
 ## 0.7.3
 
 ### Patch Changes
